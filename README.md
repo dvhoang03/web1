@@ -7,7 +7,7 @@ Clone dự án về máy:
  
 
 git clone https://github.com/dvhoang03/web1
-Cài đặt các phụ thuộc:
+
  
 cd backend
 npm install
