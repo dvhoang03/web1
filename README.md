@@ -11,11 +11,10 @@ Thanh toán: Tích hợp tính năng thanh toán trực tuyến qua nhiều phư
 Quản lý người dùng: Người dùng có thể đăng ký tài khoản, đăng nhập, theo dõi đơn hàng và quản lý thông tin cá nhân.
 Bình luận và đánh giá: Người dùng có thể để lại bình luận và đánh giá cho sản phẩm.
 Công nghệ sử dụng
-## Front-end: HTML, CSS, JavaScript (React, Vue.js hoặc Angular)
-## Back-end: Node.js với Express hoặc PHP với Laravel
-Cơ sở dữ liệu: MySQL, PostgreSQL hoặc MongoDB
-Tích hợp thanh toán: Stripe, PayPal hoặc Momo
-Quản lý phiên người dùng: JWT (JSON Web Token) hoặc session cookies
+## Front-end: HTML, CSS, JavaScript (React)
+## Back-end: Node.js với Express
+Cơ sở dữ liệu:  MongoDB
+Quản lý phiên người dùng: JWT (JSON Web Token) 
 ## 1. Yêu cầu hệ thống
 - Node.js 
 - MongoDB
